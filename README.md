@@ -10,8 +10,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
 I am a Full Stack Developer specializing in **Odoo ERP** systems. I manage and develop comprehensive solutions for both internal enterprise operations and client-facing projects, ensuring business processes run smoothly and efficiently.
 
 - 📦 **Odoo & Backend:** Experienced in developing full-scale Odoo modules from scratch, customizing existing features, and building robust APIs to seamlessly integrate Odoo with external platforms.
