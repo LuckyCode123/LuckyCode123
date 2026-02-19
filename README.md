@@ -3,7 +3,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=714B67&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Odoo+%26+ERP+Specialist;API+Integration+Expert;CI%2FCD+%26+Automation" alt="Typing SVG" />
 </div>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuckyCode123/LuckyCode123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuckyCode123/LuckyCode123/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LuckyCode123/LuckyCode123/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <p align="center">
   Building scalable ERP solutions, seamless API integrations, and automated deployment pipelines.
 </p>
@@ -46,14 +52,6 @@ I am a Full Stack Developer specializing in **Odoo ERP** systems. I manage and d
     <img src="https://github-readme-stats-fast.vercel.app/api?username=LuckyCode123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=714B67" alt="GitHub Stats" width="48%" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuckyCode123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=714B67" alt="Top Languages" width="48%" />
   </div>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuckyCode123/LuckyCode123/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuckyCode123/LuckyCode123/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LuckyCode123/LuckyCode123/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
