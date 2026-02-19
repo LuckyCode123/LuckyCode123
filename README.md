@@ -45,8 +45,8 @@ I am a Full Stack Developer specializing in **Odoo ERP** systems. I manage and d
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuckyCode123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=714B67" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyCode123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=714B67" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=LuckyCode123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=714B67" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuckyCode123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=714B67" alt="Top Languages" width="48%" />
   </div>
 </div>
 
@@ -54,3 +54,4 @@ I am a Full Stack Developer specializing in **Odoo ERP** systems. I manage and d
 <p align="center">
   <i>Always open to discussing ERP architecture, workflow automation, or new development challenges!</i>
 </p>
+
