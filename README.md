@@ -14,8 +14,6 @@
 - 🧩 **Odoo ERP** — Custom modules, business logic & workflows
 - 🔗 **Backend & APIs** — REST APIs and system integration
 - 💻 **Full Stack** — Web applications and backend services
-- 🐳 **DevOps** — Docker, Linux, CI/CD and deployments
-
 ---
 
 ## 🛠️ Tech Stack
