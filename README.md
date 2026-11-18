@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9B6BC0&center=true&vCenter=true&width=480&lines=Building+things+with+code;Working+with+Odoo+%26+Web+Apps;Exploring+DevOps+%26+Automation" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="./assets/cat.gif" width="640">
+</div>
+
 ---
 
 ### 👨‍💻 A Bit About My Work
